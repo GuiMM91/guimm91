@@ -23,9 +23,3 @@ Sou desenvolvedor front-end, com conhecimentos em JS, HTML, CSS e Git.
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guimm91&layout=compact&langs_count=16"/>    
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=guimm91">
 </div>
-  
-
-<div align="center"></br>  
-  <h2>🏆 Troféus do GitHub</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=guimm91&column=7" 
-</div>

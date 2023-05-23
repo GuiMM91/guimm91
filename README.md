@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guimm91&label=Profile%20views&color=0e75b6&style=flat" alt="guimm91" />
   
-Sou desenvolvedor front-end, com conhecimentos em JS, HTML, CSS e Git. Realizei recentemente a transição de carreiras, da área de produção de conteúdos para a área de tecnologia. Em constante aprendizado no front-end.
+Sou produtor de conteúdo, com conhecimentos em JS, HTML, CSS e Git.
   
 <p><a href="https://www.linkedin.com/in/guilherme-marques-mesquita-39bb44233/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="guimm91"/></a></p>
   
